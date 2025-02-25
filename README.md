@@ -94,3 +94,6 @@ Entertainment consistently receives the lowest scores (1.4).
 Boeing 747-400 and Boeing 787 have the highest average ratings (~4.4 - 4.7).
 
 Certain countries show consistently higher satisfaction levels.
+
+**Dashboard**
+https://github.com/parakh-shukla/Tableau-British-airways-reviews/blob/main/Screenshot%202025-02-25%20191643.png
